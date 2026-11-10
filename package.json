@@ -1,0 +1,21 @@
+{
+  "name": "referralmeter-js",
+  "version": "0.1.0",
+  "description": "Minimal server-side SDK for Referralmeter — affiliate programs for AI apps.",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ajussis/referralmeter-js"
+  },
+  "homepage": "https://referralmeter.com",
+  "keywords": ["referralmeter", "affiliate", "referral-tracking", "saas", "stripe", "polar", "lemonsqueezy", "paddle", "creem", "dodo-payments"],
+  "engines": {
+    "node": ">=18"
+  },
+  "files": ["src", "README.md", "LICENSE"]
+}
